@@ -170,12 +170,3 @@ curl -X POST http://127.0.0.1:8000/api/v1/generate \
 ---
 
 ✅ Ready to build apps in Python, JavaScript, or directly via cURL!
-
----
-
-### ℹ️ Notes on GitHub README Formatting
-
-* Use **Markdown** headings (`#`, `##`, `###`) for sections.
-* Use **fenced code blocks** (triple backticks with language name) for syntax highlighting.
-* Basic **inline HTML** (like `<br>`, `<b>`, `<i>`, `<details>`) is supported, but avoid overusing it for portability.
-* Stick to **Markdown-first** for maximum compatibility.
