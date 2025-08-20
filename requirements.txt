@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+llama-cpp-python
+configparser
+requests
+# Note: Tkinter (for the GUI) is usually part of the standard Python library.
+# If you get an error like 'No module named _tkinter', you may need to install it separately.
+# On Debian/Ubuntu: sudo apt-get install python3-tk
+# On Fedora: sudo dnf install python3-tkinter
+# On macOS (with Homebrew): brew install python-tk

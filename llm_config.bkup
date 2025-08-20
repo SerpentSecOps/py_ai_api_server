@@ -1,0 +1,20 @@
+[server]
+host = 127.0.0.1
+port = 8000
+api_keys = your-secret-api-key
+log_level = INFO
+log_file = llm_server.log
+use_auth = False
+batch_size = 4
+
+[model]
+model_path = C:/Users/Mpbur/Desktop/LLM's/Models/lmstudio-community/gemma-3-27b-it-abliterated.q6_k/gemma-3-27b-it-abliterated.q6_k.gguf
+lora_path = 
+model_type = llama
+max_tokens = 4096
+temperature = 0.7
+top_p = 0.95
+n_gpu_layers = 62
+streaming = False
+flash_attention = False
+
