@@ -2,8 +2,6 @@
 
 This API server exposes a RESTful interface for local LLM (Large Language Model) inference using **FastAPI** and **llama-cpp-python**. You can write applications in any language that can make HTTP requests (Python, JavaScript, cURL, etc.).
 
-> **Note:** GitHub README files render **Markdown**, not raw HTML. While limited inline HTML is supported, it’s best practice to stick to Markdown for compatibility.
-
 ---
 
 ## 1. Start the Server
